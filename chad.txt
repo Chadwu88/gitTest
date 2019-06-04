@@ -1,2 +1,6 @@
 hello,chad; i like it
+
 add in master
+=======
+add in feature1
+
